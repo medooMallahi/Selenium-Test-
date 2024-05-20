@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeleniumOne" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-05-20T01:09:54" hostname="214ed1c2d155" time="29.206">
+  <properties/>
+  <testcase name="loginWithInvalidPasswordTest" classname="SeleniumOne" time="5.096"/>
+  <testcase name="loginWithInvalidUsernameTest" classname="SeleniumOne" time="3.893"/>
+  <testcase name="loginWithRightCredentialsTest" classname="SeleniumOne" time="5.828"/>
+  <testcase name="readPageTitle" classname="SeleniumOne" time="2.837"/>
+  <testcase name="testStaticPage" classname="SeleniumOne" time="3.206"/>
+  <testcase name="sendFormAfterLogin" classname="SeleniumOne" time="5.529"/>
+  <testcase name="verifyComplexXpath" classname="SeleniumOne" time="2.816"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[May 20, 2024 3:09:57 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+May 20, 2024 3:10:01 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+May 20, 2024 3:10:04 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+May 20, 2024 3:10:10 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+May 20, 2024 3:10:13 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+May 20, 2024 3:10:16 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+May 20, 2024 3:10:22 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
